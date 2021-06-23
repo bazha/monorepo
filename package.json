@@ -18,6 +18,7 @@
   "keywords": [],
   "author": "Matt Mazzola <mattmazzola@live.com> (https://github.com/mattmazzola)",
   "license": "MIT"
+  "license": "MIT",
   "dependencies": {
     "typescript": "^3.9.3"
   }
